@@ -428,3 +428,9 @@ stanów zużycia i kategorii) znajdują się w `pipeline/config.py`.
 - **Ikony:** nazwa pliku ikony jest wyliczana regułą ustaloną na próbce. Pojedyncze
   przedmioty o nietypowych nazwach mogą nie mieć ikony.
 - **Brak harmonogramu.** Potok uruchamia się ręcznie.
+
+---
+
+## Autorzy
+
+Przygotowane przez: Michał Golina, Taron Tovmasyan
